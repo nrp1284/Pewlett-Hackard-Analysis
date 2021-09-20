@@ -31,19 +31,23 @@ PostgreySQL, pgAdmin
 
 1. The job titles of the eligible retirees roles will need to be filled as the "silver tsunami" begins to make an impact is given below.
 
-32,452 Staff
+Engineer: 34559
 
-29,415 Senior Engineer
+Staff: 32452
 
-14,221 Engineer
+Senior Engineer: 29415
 
-8,047 Senior Staff
+Senior Staff: 28256
 
-4,502 Technique Leader
+Assistant Engineer: 4584
 
-1,761 Assistant Engineer
+Technique Leader: 4504
+
+Manager: 6
 
 ![retiring_titles](images/retiring_titles.png)
+
+
 
 ## Deliverable1
 
