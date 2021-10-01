@@ -40,18 +40,15 @@ Senior Engineer: 29415
 Senior Staff: 28256
 
 Assistant Engineer: 4584
-<<<<<<< HEAD
+
+
+Technique Leader: 4504
 
 Technique Leader: 4504
 
 Manager: 6
-=======
 
-Technique Leader: 4504
 
-Manager: 6
-
->>>>>>> d570f91d1ae5029186bfd3f0d2498fce19c5a388
 
 ![retiring_titles](images/retiring_titles.png)
 
